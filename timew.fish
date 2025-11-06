@@ -49,7 +49,7 @@ set -l commands_with_description "
 cancel\t'Cancel time tracking'
 diagnostics\t'Show diagnostic information'
 extensions\t'List available extensions'
-show\t 'Display configuration'
+show\t'Display configuration'
 undo\t'Revert Timewarrior commands'
 annotate\t'Add an annotation to intervals'
 config\t'Get and set Timewarrior configuration'
